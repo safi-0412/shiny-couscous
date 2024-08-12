@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 76px 63px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 64px;
+    text-align: center;
+}
+
+.red{
+    width: 558px;
+    height: 452px;
+    background-color: #FF0000;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    display: flex;
+    margin: 128px 63px;
+    justify-content: space-between;
+}
+
+footer{
+    margin: 76px 63px;
+}
+
+

@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.chaild{
+    width: 169.54px;
+    height: 167px;
+    top: 61px;
+    left: 63.29px;
+    gap: 0px;
+    border-radius: 30px;
+    background-color: gray;
+}
